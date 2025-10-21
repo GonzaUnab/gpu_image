@@ -1,0 +1,5 @@
+numpy
+cupy
+numba
+matplotlib
+opencv-python
